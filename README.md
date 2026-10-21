@@ -14,7 +14,15 @@ Es el flujo con el que un artículo en inglés pasó de **81 % a menos de 20 %**
 
 ## Instalación
 
-Copia la carpeta `turnitin-ai-revision` en uno de estos lugares:
+**Desde GitHub** (desde la carpeta de tu proyecto):
+
+```bash
+git clone https://github.com/MaycolPGR-aduch/turnitin-ai-revision.git .claude/skills/turnitin-ai-revision
+```
+
+Para tenerla en todos tus proyectos, clónala en `~/.claude/skills/turnitin-ai-revision`.
+
+**Manual:** copia la carpeta `turnitin-ai-revision` en uno de estos lugares:
 
 - **Solo para un proyecto:** `<carpeta del proyecto>/.claude/skills/turnitin-ai-revision/`
 - **Para todos tus proyectos:** `~/.claude/skills/turnitin-ai-revision/` (en Windows: `C:\Users\<usuario>\.claude\skills\`)
