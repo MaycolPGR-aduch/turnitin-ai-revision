@@ -5,6 +5,7 @@ description: |
   guiándose por el informe de IA de Turnitin y por una muestra de texto humano del mismo grupo.
   Úsala cuando el usuario comparta un .docx junto con un informe de Turnitin (PDF) y pida bajar
   el porcentaje de IA, "humanizar" el documento o reescribir los segmentos marcados.
+license: MIT
 metadata:
   version: "1.2.0"
   based-on: "blader/humanizer (patrones) + flujo probado en un artículo de la UCH (81 % -> menos de 20 %)"

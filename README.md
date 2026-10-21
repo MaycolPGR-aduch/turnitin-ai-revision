@@ -71,6 +71,7 @@ Recuerda revisar la política de tu institución sobre el uso de IA en trabajos 
 turnitin-ai-revision/
 ├── SKILL.md                     instrucciones para Claude (flujo, reglas, estilo)
 ├── README.md                    este archivo
+├── LICENSE                      licencia MIT
 └── scripts/
     ├── docx_text.py             funciones compartidas para leer y guardar el .docx
     ├── extract_paragraphs.py    lista los párrafos con su texto exacto
@@ -78,3 +79,7 @@ turnitin-ai-revision/
     ├── style_stats.py           compara el estilo de la muestra y el documento
     └── export_pdf.ps1           exporta a PDF con Word para revisar el formato
 ```
+
+## Licencia
+
+MIT. Puedes usar, copiar, modificar y redistribuir esta skill, incluso con fines comerciales, siempre que conserves el aviso de copyright y la licencia. Se entrega "tal cual", sin garantía. Ver [LICENSE](LICENSE).
