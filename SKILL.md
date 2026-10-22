@@ -7,8 +7,8 @@ description: |
   el porcentaje de IA, "humanizar" el documento o reescribir los segmentos marcados.
 license: MIT
 metadata:
-  version: "1.2.0"
-  based-on: "blader/humanizer (patrones) + flujo probado en un artículo de la UCH (81 % -> menos de 20 %)"
+  version: "1.3.0"
+  based-on: "blader/humanizer (patrones) + flujo probado en tres artículos de la UCH (81 %, 27 % y 31 % -> menos de 20 %)"
 ---
 
 # Revisión de documentos marcados como IA por Turnitin
@@ -63,6 +63,11 @@ Antes de reescribir, revisa y corrige en una copia:
 - **Restos de traducción automática:** palabras pegadas o con letras de más ("assumptQions", "CRP-as"), términos
   cambiados ("gender" donde el resto dice "sex") y oraciones que **invierten el sentido** ("did not merely assess"
   donde la oración siguiente dice que *solo* se evaluó eso). Revisa cada oración contra su contexto.
+- **Notas de un editor de IA pegadas al texto:** frases que hablan del documento y no del estudio ("the original
+  manuscript", "the researcher pointed out", "new raster/values", "a figure that cannot be verified with the
+  available material", "we have been able to verify"). En el tercer documento probado fueron lo que más marcó
+  Turnitin. Conviértelas en limitaciones dichas por los autores y conserva lo que afirman, sin mencionar el
+  manuscrito. Reduce también las salvedades repetidas ("does not by itself…", "does not constitute…").
 - **Citas que apuntan a la referencia equivocada.** Compara cada afirmación con el título de la referencia. Corrige
   solo los casos claros y reporta los dudosos y las referencias que no se citan para que el usuario decida.
 

@@ -12,6 +12,13 @@ Es el flujo con el que un artículo en inglés pasó de **81 % a menos de 20 %**
 | B | Reescritura a fondo de los segmentos marcados | 36 % |
 | C | Imitar una muestra humana del mismo laboratorio, solo en lo marcado | menos de 20 % |
 
+Con la muestra disponible desde el inicio, otros dos artículos bajaron de 20 % en una sola ronda:
+
+| Documento | Antes | Después | Qué lo resolvió |
+|---|---|---|---|
+| Adiposidad y hs-CRP | 27 % | menos de 20 % | Estilo de la muestra solo en lo marcado y menos "Furthermore"/"However" |
+| Landsat 9 + IoT | 31 % | menos de 20 % | Notas de un editor de IA pegadas al texto convertidas en limitaciones de los autores, más el estilo de la muestra |
+
 ## Instalación
 
 **Desde GitHub** (desde la carpeta de tu proyecto):
